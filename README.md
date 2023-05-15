@@ -11,5 +11,6 @@ I added images of players and when you click on them, you get to their twitter p
 
 You can always change or update our repo as you want make sure you 
 add the updated data and also fell free to make it better!
+- it woudl be great help if you could add HD images to our webpage!
 
 # Thank You
